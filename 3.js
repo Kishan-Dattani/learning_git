@@ -1,3 +1,4 @@
 function test(a,b){
-return a/b;
+int sum=0;
+	return a/b;
 }
